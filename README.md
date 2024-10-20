@@ -1,6 +1,4 @@
-<a href="https://app.rocketseat.com.br/me/alexandre-massaro"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=alexandre-massaro&type=card" width="280" alt="Alexandre Cesar Massaro's Rocket ID"/></a>
-
- # Hello, I'm Alexandre Massaro! 👋
+# Hello, I'm Alexandre Massaro! 👋
 
  ## About Me
 
@@ -38,3 +36,6 @@
  - GitHub: [alexandremassaro](https://github.com/alexandremassaro)
  - Email: alexandremassaro@proton.me
 
+-------
+
+<a href="https://app.rocketseat.com.br/me/alexandre-massaro"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=alexandre-massaro&type=card" width="280" alt="Alexandre Cesar Massaro's Rocket ID"/></a>
